@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarClusterDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="car_permission_car_cluster_control">Instrument cluster control</string>
+    <string name="car_permission_desc_car_cluster_control">Launch apps in the instrument cluster</string>
+</resources>
